@@ -93,9 +93,12 @@
         </mxCell>
         <mxCell id="chsjeoNw8ckl6OiHo53g-22" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="562" y="241" as="sourcePoint" />
-            <mxPoint x="682" y="241" as="targetPoint" />
+            <mxPoint x="559" y="240" as="sourcePoint" />
+            <mxPoint x="679" y="240" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="chsjeoNw8ckl6OiHo53g-23" value="&lt;font face=&quot;Times New Roman&quot;&gt;Sejarah Tari Sintren&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="121" y="270" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
