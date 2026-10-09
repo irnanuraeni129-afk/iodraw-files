@@ -32,7 +32,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="chsjeoNw8ckl6OiHo53g-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;Pertunjukan&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="139" y="200" width="120" height="30" as="geometry" />
+          <mxGeometry x="153" y="200" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="chsjeoNw8ckl6OiHo53g-10" value="&lt;font face=&quot;Times New Roman&quot;&gt;Fungsi dan Makna&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="200" width="120" height="30" as="geometry" />
@@ -44,7 +44,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="chsjeoNw8ckl6OiHo53g-12" value="&lt;font face=&quot;Times New Roman&quot;&gt;Masyarakat&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="541" y="202" width="120" height="30" as="geometry" />
+          <mxGeometry x="543" y="202" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
