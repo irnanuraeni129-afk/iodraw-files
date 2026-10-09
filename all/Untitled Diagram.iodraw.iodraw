@@ -93,8 +93,8 @@
         </mxCell>
         <mxCell id="chsjeoNw8ckl6OiHo53g-22" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="559" y="240" as="sourcePoint" />
-            <mxPoint x="679" y="240" as="targetPoint" />
+            <mxPoint x="558" y="240" as="sourcePoint" />
+            <mxPoint x="678" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="chsjeoNw8ckl6OiHo53g-23" value="&lt;font face=&quot;Times New Roman&quot;&gt;Kondisi Tari Sintren&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -108,8 +108,8 @@
         </mxCell>
         <mxCell id="chsjeoNw8ckl6OiHo53g-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="678" y="240" as="sourcePoint" />
-            <mxPoint x="678" y="260" as="targetPoint" />
+            <mxPoint x="671" y="240" as="sourcePoint" />
+            <mxPoint x="671" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="chsjeoNw8ckl6OiHo53g-27" value="&lt;font face=&quot;Times New Roman&quot;&gt;Fungsi Tari Sintren di Masyarakat&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
