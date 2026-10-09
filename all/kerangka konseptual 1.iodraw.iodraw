@@ -19,7 +19,7 @@
         <mxCell id="xc74aXXfvVYNzUap1Eof-19" value="Kondisi Tari Sintren pada Saat Ini" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="160" y="450" width="237" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="xc74aXXfvVYNzUap1Eof-20" value="Fungsi Tari Sintren di Masyarakat" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="xc74aXXfvVYNzUap1Eof-20" value="Fungsi Tari Sintren di Masyarakat" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="447" y="450" width="210" height="66" as="geometry" />
         </mxCell>
         <mxCell id="xc74aXXfvVYNzUap1Eof-21" value="Sejarah Tari Sintren" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -30,13 +30,6 @@
         </mxCell>
         <mxCell id="xc74aXXfvVYNzUap1Eof-23" value="Kedudukan Tari Sintren di Kehidupan Masyarakat" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1242" y="450" width="243" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="xc74aXXfvVYNzUap1Eof-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.67;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="xc74aXXfvVYNzUap1Eof-15" target="xc74aXXfvVYNzUap1Eof-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="415" y="326" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="xc74aXXfvVYNzUap1Eof-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="xc74aXXfvVYNzUap1Eof-15" target="xc74aXXfvVYNzUap1Eof-17">
           <mxGeometry relative="1" as="geometry">
