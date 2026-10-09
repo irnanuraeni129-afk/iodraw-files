@@ -133,7 +133,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="THIiMlM725yMy-eRO-iB-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;Upaya Pelestarian Tari Sintren&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="355" y="191" width="200" height="40" as="geometry" />
+          <mxGeometry x="352" y="191" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="THIiMlM725yMy-eRO-iB-7" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="THIiMlM725yMy-eRO-iB-5" target="T94UedIZszmL9fUSVkd8-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -163,8 +163,8 @@
         </mxCell>
         <mxCell id="T94UedIZszmL9fUSVkd8-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.306;exitY=1.108;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="479.20000000000005" y="232.32000000000005" as="sourcePoint" />
-            <mxPoint x="479" y="260" as="targetPoint" />
+            <mxPoint x="480.20000000000005" y="232.32000000000005" as="sourcePoint" />
+            <mxPoint x="480" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="T94UedIZszmL9fUSVkd8-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
