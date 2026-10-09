@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="407" dy="229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="567" dy="319" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,8 +39,8 @@
         </mxCell>
         <mxCell id="chsjeoNw8ckl6OiHo53g-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="180" as="sourcePoint" />
-            <mxPoint x="620" y="200" as="targetPoint" />
+            <mxPoint x="610" y="180" as="sourcePoint" />
+            <mxPoint x="610" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="chsjeoNw8ckl6OiHo53g-12" value="&lt;font face=&quot;Times New Roman&quot;&gt;Masyarakat&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -93,8 +93,8 @@
         </mxCell>
         <mxCell id="chsjeoNw8ckl6OiHo53g-22" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="543" y="240" as="sourcePoint" />
-            <mxPoint x="663" y="240" as="targetPoint" />
+            <mxPoint x="544" y="240" as="sourcePoint" />
+            <mxPoint x="664" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="chsjeoNw8ckl6OiHo53g-23" value="&lt;font face=&quot;Times New Roman&quot;&gt;Kondisi Tari Sintren&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
