@@ -123,7 +123,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="THIiMlM725yMy-eRO-iB-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;Tari Sintren&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="THIiMlM725yMy-eRO-iB-1" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Tari Sintren&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="120" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
