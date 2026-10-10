@@ -122,7 +122,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JdIC10TQ5CLR-sAre69p" name="Page-2">
-    <mxGraphModel dx="461" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="191" dy="217" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -178,9 +178,6 @@
         </mxCell>
         <mxCell id="wRbVUcx7gsA2cR8lPeUi-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="182" y="312" width="120" height="98" as="geometry" />
-        </mxCell>
-        <mxCell id="wRbVUcx7gsA2cR8lPeUi-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;a. Masyarakat&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;b. Sanggar dan pelaku&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;c. Generasi muda&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;d. Pemerintah dan dinas terkait&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="182" y="346" width="98" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
