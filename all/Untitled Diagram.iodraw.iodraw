@@ -52,7 +52,7 @@
             <mxPoint x="219" y="251" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="chsjeoNw8ckl6OiHo53g-17" value="b" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="chsjeoNw8ckl6OiHo53g-17" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;a. Ide&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;b. Aktivitas&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;c. Artefak&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="163" y="252" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="chsjeoNw8ckl6OiHo53g-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="chsjeoNw8ckl6OiHo53g-10">
