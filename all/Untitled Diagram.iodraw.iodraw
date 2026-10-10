@@ -55,10 +55,13 @@
         <mxCell id="chsjeoNw8ckl6OiHo53g-17" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;a. Ide&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;b. Aktivitas&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;c. Artefak&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="169" y="251.5" width="110" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="chsjeoNw8ckl6OiHo53g-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.308;entryY=0.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="chsjeoNw8ckl6OiHo53g-10" target="chsjeoNw8ckl6OiHo53g-20">
+        <mxCell id="chsjeoNw8ckl6OiHo53g-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.545;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="chsjeoNw8ckl6OiHo53g-10" target="chsjeoNw8ckl6OiHo53g-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="280" y="210" as="sourcePoint" />
             <mxPoint x="420" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="355" y="240" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="chsjeoNw8ckl6OiHo53g-20" value="&lt;font face=&quot;Times New Roman&quot;&gt;Kedudukan Tari Sintren dikehidupan masyarakat&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
