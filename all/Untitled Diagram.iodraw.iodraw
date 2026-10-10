@@ -61,8 +61,10 @@
         <mxCell id="chsjeoNw8ckl6OiHo53g-23" value="&lt;font face=&quot;Times New Roman&quot;&gt;a. Frekuensi pentas&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;b. Moment pentas&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;c. Progres regenerasi&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="425" y="252" width="113" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="RUa2GrrKc1vD3kFbwVol-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="chsjeoNw8ckl6OiHo53g-27" target="RUa2GrrKc1vD3kFbwVol-13">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="RUa2GrrKc1vD3kFbwVol-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="chsjeoNw8ckl6OiHo53g-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="450" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="chsjeoNw8ckl6OiHo53g-27" value="&lt;font face=&quot;Times New Roman&quot;&gt;a. Faktor internal&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;b. Faktor eksternal&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="554" y="253" width="119" height="50" as="geometry" />
@@ -93,9 +95,6 @@
             <mxPoint x="612" y="230" as="sourcePoint" />
             <mxPoint x="612" y="250" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="RUa2GrrKc1vD3kFbwVol-13" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="603.5" y="398" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
